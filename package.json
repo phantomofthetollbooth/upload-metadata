@@ -1,0 +1,15 @@
+{
+  "name": "filemetadataapi",
+  "version": "1.0.0",
+  "description": "return size of file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "phantomofthetollbooth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
+  }
+}
